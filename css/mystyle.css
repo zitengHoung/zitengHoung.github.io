@@ -1,0 +1,29 @@
+.bg-primary {
+    background-color: #202B1F !important;
+}
+.social-icon .social-icon.social-icon:hovor{
+    background-color: #202B1F !important;
+}
+.text-primary{
+    color: #202B1F !important;
+}
+
+a{
+    color: #202b1f;
+}
+
+h6, .h6, h5, .h5, .h4, .h4, .h3, .h3, .h2, .h2, .h1, .h1 {
+    font-family: "Noto Sans TC", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h1, .h1{
+    font-weight: 600;
+    font-size: calc(1.25rem + 5.7vw) ;
+}
+
+h2, .h2{
+    font-weight: 400;
+}
